@@ -54,12 +54,10 @@
 ---
 
 ### Github Stats
-(Thank you <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra</a>)
-
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veroMoreno&theme=radical&card_width=450em)](https://github.com/veroMoreno/veroMoreno/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=veroMoreno&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoanBurbano&theme=radical&card_width=450em)](https://github.com/JhoanBurbano/JhoanBurbano/github-readme-stats"/></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhoanBurbano&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
   </tr>
 </table>
 
