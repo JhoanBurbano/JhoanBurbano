@@ -72,8 +72,8 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
 
 ### Repositorios TOP
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=JhoanBurbano&repo=ARCHITECTS&bg_color=22,fc00ff,000000&title_color=fff&text_color=fff)](https://github.com/JhoanBurbano/ARCHITECTS)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=JhoanBurbano&repo=cans&bg_color=22,fc00ff,000000&title_color=fff&text_color=fff)](https://github.com/JhoanBurbano/cans)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=JhoanBurbano&repo=ARCHITECTS&bg_color=22,32CD32,000000&title_color=fff&text_color=fff)](https://github.com/JhoanBurbano/ARCHITECTS)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=JhoanBurbano&repo=cans&bg_color=22,32CD32,000000&title_color=fff&text_color=fff)](https://github.com/JhoanBurbano/cans)
 
 ---
 
