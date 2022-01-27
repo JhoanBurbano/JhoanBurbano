@@ -1,4 +1,4 @@
-# Personaliza tu pantalla de presentación de Github
+# WELCOME TO MY GITHUB
 
 ### Badges
 
@@ -49,9 +49,6 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 
-<a target="_blank" href="https://dev.to/envoy_/150-badges-for-github-pnk">150+ Badgets aquí!</a>
-
----
 
 ### Github Stats
 <table>
@@ -73,20 +70,10 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-### Github Activity 
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/veroMoreno/mealplan-front/issues/1) in [veroMoreno/mealplan-front](https://github.com/veroMoreno/mealplan-front)
-2. 🗣 Commented on [#2](https://github.com/veroMoreno/mealplan-front/issues/2) in [veroMoreno/mealplan-front](https://github.com/veroMoreno/mealplan-front)
-3. ❗️ Closed issue [#3](https://github.com/veroMoreno/mealplan-front/issues/3) in [veroMoreno/mealplan-front](https://github.com/veroMoreno/mealplan-front)
-4. ❌ Closed PR [#4](https://github.com/veroMoreno/mealplan-front/pull/4) in [veroMoreno/mealplan-front](https://github.com/veroMoreno/mealplan-front)
-5. 🗣 Commented on [#5](https://github.com/veroMoreno/mealplan-front/issues/5) in [veroMoreno/mealplan-front](https://github.com/veroMoreno/mealplan-front)
-<!--END_SECTION:activity-->
-
 ### Repositorios TOP
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=JhoanBurbano&repo=ARCHITECTS&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/JhoanBurbano/ARCHITECTS)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=JhoanBurbano&repo=cans&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/JhoanBurbano/cans)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=JhoanBurbano&repo=ARCHITECTS&bg_color=22,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/JhoanBurbano/ARCHITECTS)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=JhoanBurbano&repo=cans&bg_color=22,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/JhoanBurbano/cans)
 
 ---
 
