@@ -1,5 +1,13 @@
 # WELCOME TO MY GITHUB
 
+
+<p>I create successful responsive websites that are fast, easy to use, and built with best practices. The main area of my expertise is front-end development with React, Angular, Next & Vue, building small and medium web apps, custom plugins and libraries, features, animations, and coding interactive layouts.
+
+I also have full-stack developer experience with the most popular stacks like MEAN(MongoDB, Express, Angular, Node) & MERN (MongoDB, Express, React, Node).
+
+Visit my LinkedIn profile for more details or just contact me.</p>
+
+
 ### Badges
 
 <h4>Programming Languages</h4>
@@ -87,7 +95,7 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://torre.co/jhoanburbano">
-    <img src="https://img.shields.io/badge/Torre-1DA1F2?style=for-the-badge&logo=torre&logoColor=white">
+    <img src="https://img.shields.io/badge/Torre-1DA1F2?style=for-the-badge&logo=gitlab&logoColor=white">
   </a>
   <a href="mailto:jhoanburbano@unicauca.edu.co">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
