@@ -1,3 +1,5 @@
+![Banner](https://burbanostudio-assets.s3.us-east-2.amazonaws.com/assets/imgs/js_banner_linkedin.jpg)
+
 # [JHOAN BURBANO]
 
 <img width="200" height="200" align="right" src="https://burbanostudio-assets.s3.us-east-2.amazonaws.com/assets/imgs/profile-white.jpg">
@@ -6,7 +8,7 @@
 
 Me especializo en el desarrollo de aplicaciones Frontend y Backend, así como en la integración de API de terceros. Tengo experiencia en trabajar con lenguajes de programación como JavaScript, TypeScript, Python, Java, y bases de datos como MySQL y MongoDB. También tengo experiencia en el uso de herramientas y frameworks como React, Angular, Node.js, Express.js, Flask y Django.
 
-![Banner](https://burbanostudio-assets.s3.us-east-2.amazonaws.com/assets/imgs/js_banner_linkedin.jpg)
+
 
 En mi tiempo libre, me gusta explorar nuevas tecnologías y trabajar en proyectos personales para mejorar mis habilidades. También me gusta contribuir a proyectos de código abierto y participar en comunidades de desarrolladores.
 
