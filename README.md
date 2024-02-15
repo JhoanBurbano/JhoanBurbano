@@ -14,9 +14,9 @@ En mi tiempo libre, me gusta explorar nuevas tecnologías y trabajar en proyecto
 
 ## Proyectos destacados
 
-* [Rick&Morty](https://rick-and-morty-aplazo.vercel.app/characters) - Typescript, NgRx, RxJS
-* [ChatRoom](https://qickly-chat.vercel.app/) - SocketIO, NodeTS, Express, Material Design,  Vite, React
-* [SocialNetwork](https://henry-network.vercel.app/) - React, Express, SocketIO, Hooks, Redux, Firebase, MongoDB
+* [Notes-Manager](https://note-manager-test.vercel.app/) - Typescript, React, Vite, Redux, PrimeReact, PrimeFlex, Css || NestJs, DTO, DAO, SOLID, JWT || MongoDB, Mongoose
+* [Piratest](https://piratest.vercel.app/) - Typescript, React, Vite, Redux Tool Kit, Redux Persist, PrimeReact, PrimeFlex, Css || Firebase Auth, Firebase Storage, Firestore Real time 
+* [MediaManager](https://video-manager-client.vercel.app/) - VueTS, sass, Promises, Upload Media, Compress Video & Photos, Auth, Text Format || Express, Mongoose, Middleware, FFPMEG
 
 ## Habilidades
 
