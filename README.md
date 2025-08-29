@@ -27,6 +27,9 @@ Me especializo en tecnologías como React, React Native, Vue.js, Node.js, Expres
   **Características:** UI fluida, navegación optimizada, EAS build, pruebas unitarias y e2e, estructura escalable y enfoque mobile-first.
 
 ---
+## Ultimos Proyectos
+
+[🖥️ Lista de ultimos proyectos](http://github.com/stars/JhoanBurbano/lists/portfolio-projects)---
 ## Habilidades
 
 * **Lenguajes de programación:** JavaScript, TypeScript, Python, Java  
