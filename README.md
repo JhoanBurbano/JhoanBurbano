@@ -42,6 +42,7 @@ Me especializo en tecnologías como React, React Native, Vue.js, Node.js, Expres
 [<img src="https://burbanostudio-assets.s3.us-east-2.amazonaws.com/assets/imgs/transparent/linkedin.png" width="24" height="24"> Linkedin](https://www.linkedin.com/in/jsburbano/)  
 [<img src="https://burbanostudio-assets.s3.us-east-2.amazonaws.com/assets/imgs/transparent/gmail.png" width="24" height="24"> Correo Electrónico](mailto:joans.burbano@gmail.com)  
 [<img src="https://burbanostudio-assets.s3.us-east-2.amazonaws.com/assets/imgs/transparent/portfolio.png" width="24" height="24"> Sitio Web](https://jsburbano.framer.website/)
+<br/>
 [<img src="https://cdn-icons-png.flaticon.com/512/6588/6588143.png" width="24" height="24"> Curriculum](https://32rtv1xoeq3me6nj.public.blob.vercel-storage.com/jhoan-burbano-cv.pdf)
 
 ¡Gracias por visitar mi perfil de GitHub! Si te interesa colaborar, necesitas apoyo técnico o deseas conocer más de mis proyectos, estoy disponible para conectar.
